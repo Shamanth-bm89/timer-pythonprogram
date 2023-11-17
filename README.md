@@ -1,1 +1,1 @@
-# timer-pythonprogram
+Overall, this program creates a simple GUI timer application using tkinter. The timer runs in the background, and the GUI remains responsive. The user can input the desired time, start the timer, and receive a message when the time is up. Threading is used to prevent the GUI from freezing during the countdown.# timer-pythonprogram
